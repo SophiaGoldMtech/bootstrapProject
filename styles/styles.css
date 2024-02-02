@@ -1,0 +1,22 @@
+.font-purple {
+  color: #8C38FF;
+}
+
+.font-black {
+  color: #000;
+}
+
+.fs-100 {
+  font-size: 1rem;
+}
+
+.fs-900 {
+  font-size: 6rem;
+}
+
+.button-purple {
+  background-color: #8C38FF;
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */

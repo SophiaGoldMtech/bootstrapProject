@@ -1,0 +1,25 @@
+$color-primary-100: #8C38FF;
+$color-neutral-900: #000;
+$fs-100: 1rem;
+$fs-900: 6rem;
+
+.font-purple {
+    color: $color-primary-100;
+}
+
+.font-black {
+    color: $color-neutral-900;
+}
+
+.fs-100{
+    font-size: $fs-100;
+}
+
+.fs-900{
+    font-size: $fs-900;
+}
+
+.button-purple {
+    background-color: $color-primary-100;
+    color: white;
+}
