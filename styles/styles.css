@@ -7,7 +7,7 @@
 }
 
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/pngtree-desk-with-a-monitor-and-other-items-on-it-picture-image_3376697.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/pngtree-desk-with-a-monitor-and-other-items-on-it-picture-image_3376697.jpg");
   background-size: cover;
 }
 
