@@ -1,11 +1,6 @@
-$fs-100: 1rem;
 $fs-900: 6rem;
 
 $color-primary-500: #8B37FF;
-
-.fs-100{
-    font-size: $fs-100;
-}
 
 .fs-900{
     font-size: $fs-900;
@@ -13,6 +8,12 @@ $color-primary-500: #8B37FF;
 
 .font-purple {
     color: $color-primary-500;
+}
+
+body {
+    background-image: url("./images.jpeg");
+    background-size: cover;
+    background-color: red;
 }
 
 .button-purple {
