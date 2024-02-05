@@ -3,18 +3,15 @@
 }
 
 .font-purple {
-  color: #8b37ff;
+  color: #8B37FF;
 }
 
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/pngtree-desk-with-a-monitor-and-other-items-on-it-picture-image_3376697.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/pngtree-desk-with-a-monitor-and-other-items-on-it-picture-image_3376697.jpg");
   background-size: cover;
 }
 
 .button-purple {
   color: white;
-  background-color: #8b37ff;
-}
-
-/*# sourceMappingURL=styles.css.map */
+  background-color: #8B37FF;
+}/*# sourceMappingURL=styles.css.map */
